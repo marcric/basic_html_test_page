@@ -1,4 +1,6 @@
-h1. This is a very basic HTML page to be tested using you "@reset.css@" style sheet.
+h1. A very basic HTML test page
+
+h2. This is an HTML page to be tested using your own "@reset.css@" style sheet.
 
 h2. The reasons
 
