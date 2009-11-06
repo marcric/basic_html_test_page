@@ -1,0 +1,22 @@
+h1. This is a very basic HTML page to be tested using you "@reset.css@" style sheet.
+
+h2. The reasons
+
+It is all about the pros and cons on using reset style sheets.
+
+The most important thing to remember is: 
+
+A reset style sheet must show the html content in a *readable* and *useful* way.
+
+h2. Example:
+
+Here is an image of what can be considered a *readable* and *useful* HTML being exhibited:
+
+* "Sample":http://github.com/marcric/basic_html_test_page/html_basic_test_result.png
+
+Usage:
+
+1 - Put your "@reset.css@" file with this HTML page together in the same folder and double-click the HTML file.
+2 - Compare the resulting exhibited page with the sample image provided.
+
+Suggestions and improvements are always welcome.
