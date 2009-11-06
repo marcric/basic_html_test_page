@@ -14,7 +14,7 @@ h2. Example:
 
 Here is an image of what can be considered a *readable* and *useful* HTML being exhibited:
 
-* "Sample":http://github.com/marcric/basic_html_test_page/html_basic_test_result.png
+* "Sample":http://github.com/marcric/basic_html_test_page/blob/master/html_basic_test_result.png
 
 Usage:
 
